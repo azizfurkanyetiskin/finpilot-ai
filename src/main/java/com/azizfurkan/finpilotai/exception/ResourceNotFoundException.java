@@ -1,4 +1,4 @@
-﻿package com.azizfurkan.finpilotai.exception;
+package com.azizfurkan.finpilotai.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-﻿package com.azizfurkan.finpilotai.dto.request;
+package com.azizfurkan.finpilotai.dto.request;
 
 import com.azizfurkan.finpilotai.enums.PaymentMethod;
 import jakarta.validation.constraints.NotNull;

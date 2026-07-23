@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local database
+data/
+
+# Backup
+.finpilot-backup/
+
+# IntelliJ
+.idea/
+
+# Build
+target/
+

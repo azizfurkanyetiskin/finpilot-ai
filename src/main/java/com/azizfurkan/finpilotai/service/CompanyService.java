@@ -1,4 +1,4 @@
-﻿package com.azizfurkan.finpilotai.service;
+package com.azizfurkan.finpilotai.service;
 
 import com.azizfurkan.finpilotai.dto.request.CompanyRequest;
 import com.azizfurkan.finpilotai.entity.Company;

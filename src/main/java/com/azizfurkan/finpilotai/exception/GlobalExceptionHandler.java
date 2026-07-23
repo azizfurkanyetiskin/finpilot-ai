@@ -1,4 +1,4 @@
-﻿package com.azizfurkan.finpilotai.exception;
+package com.azizfurkan.finpilotai.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
